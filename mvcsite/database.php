@@ -1,9 +1,9 @@
 <?
 
-define('MYSQL_SERVER', 'mvcblog21');
+define('MYSQL_SERVER', 'mvcblog24');
 define('MYSQL_USER', 'root');
 define('MYSQL_PASSWORD', '');
-define('MYSQL_DB', 'mvcblog21');
+define('MYSQL_DB', 'mvcblog24');
 
 
 function db_connect(){
